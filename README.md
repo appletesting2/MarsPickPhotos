@@ -1,0 +1,1 @@
+这是一款简易的UIImagePickerController的封装，同时修复了iOS26下拍照无法点击的问题（xcode版本16.x）。
